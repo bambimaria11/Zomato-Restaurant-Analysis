@@ -1,4 +1,4 @@
-# Zomato-Restaurant-Analysis
+# **CAPSTONE PROJECT 2**
 
 # ZOMATO RESTAURANTS ANALYSIS
 
