@@ -20,7 +20,8 @@ This is how I apporached to bulid the model:
   6. Model Selection / Traning the Model
   7. Model Evaluation
 
-Columns description
+### Columns description
+
 **url** contains the url of the restaurant in the zomato website
 
 **address** contains the address of the restaurant in Bengaluru
